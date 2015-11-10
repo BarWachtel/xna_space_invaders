@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A16 Ex01 Bar 301797445 Elad", "A16 Ex01 Bar 301797445 Elad\A16 Ex01 Bar 301797445 Elad.csproj", "{E6E1EF89-1649-4B75-9A3F-774B1C5EBF18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6E1EF89-1649-4B75-9A3F-774B1C5EBF18}.Debug|x86.ActiveCfg = Debug|x86
+		{E6E1EF89-1649-4B75-9A3F-774B1C5EBF18}.Debug|x86.Build.0 = Debug|x86
+		{E6E1EF89-1649-4B75-9A3F-774B1C5EBF18}.Release|x86.ActiveCfg = Release|x86
+		{E6E1EF89-1649-4B75-9A3F-774B1C5EBF18}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
